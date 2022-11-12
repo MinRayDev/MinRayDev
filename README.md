@@ -1,5 +1,3 @@
-- 🎈 nKosmos Dev
-
 - 🎮 I know Python, Java, Html/Css
 
 - 🎉 I'd like to learn Rust, C++, NodeJS
